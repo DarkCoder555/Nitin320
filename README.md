@@ -35,7 +35,9 @@
 
  
  ## Stats:
-
+<p align="center">
+<a href="https://github.com/Nitin320"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin320&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin320&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 [![@nitin320's Holopin board](https://holopin.io/api/user/board?user=nitin320)](https://holopin.io/@nitin320)
 
